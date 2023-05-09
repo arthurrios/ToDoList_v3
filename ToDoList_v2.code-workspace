@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"name": "ToDoList_v2",
+		"path": "."
+	},
+	{
+		"name": "public",
+		"path": "../../../Downloads/todolist-v2-completed-app/public"
+	},
+	{
+		"name": "views",
+		"path": "../../../Downloads/todolist-v2-completed-app/views"
+	}
+],
+  "settings": {}
+}
